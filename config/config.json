@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0xC83FaD1BE05261dE4e4E0B7Da7DF2a11b039c6FE",
-  "SCAN_LINK": "https://arbiscan.io/address",
+  "CONTRACT_ADDRESS": "0x2100AF5dD8d466499a1576C7CF6F760bA363BEc1",
+  "SCAN_LINK": "https://taikoscan.io/address/0x2100af5dd8d466499a1576c7cf6f760ba363bec1",
   "NETWORK": {
-    "NAME": "Arbitrum",
+    "NAME": "Taiko",
     "SYMBOL": "ETH",
-    "ID": 42161
+    "ID": 167000
   },
   "NFT_NAME": "Wizard Alantar",
   "SYMBOL": "WIZARDALANTAR",
   "MAX_SUPPLY": 150,
-  "WEI_COST": 100000000000000000,
-  "DISPLAY_COST": 0.1,
+  "WEI_COST": 369000000000000,
+  "DISPLAY_COST": 000369,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "",
   "MARKETPLACE_LINK": "",
